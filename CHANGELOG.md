@@ -1,6 +1,13 @@
 # Changelog
 
 
+### Version 0.0.6
+
+#### enhancement
+* PR [#13](https://github.com/petercort/FBF-Event-Buddy/pull/13) - triggering a change for a pr
+
+
+
 ### Version 0.0.5
 
 #### feature
