@@ -94,7 +94,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     name: 'Update release files.'
-    steps:  
+    steps:
       - name: "Checkout Repository"
         uses: actions/checkout@v4
         with:
